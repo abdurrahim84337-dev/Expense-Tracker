@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1778226717942,
+    "description": "lunch",
+    "amount": 200.0,
+    "category": "Food & Dining",
+    "date": "2026-05-08",
+    "note": "hahahaha"
+  },
+  {
+    "id": 1778227263699,
+    "description": "fvdf",
+    "amount": 223.0,
+    "currency": "INR",
+    "category": "Utilities",
+    "date": "2026-05-08",
+    "note": "efe"
+  },
+  {
+    "id": 1778227495886,
+    "description": "edfe",
+    "amount": 2223.0,
+    "currency": "PKR",
+    "category": "Other",
+    "date": "2026-05-08",
+    "note": "dc"
+  }
+]
